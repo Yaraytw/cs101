@@ -10,6 +10,5 @@ int main() {
     }
     pi *= 4;
     printf("%.5f\n", pi);
-
     return 0;
 }
